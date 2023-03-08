@@ -1,0 +1,118 @@
+[
+    {
+        "_id": {
+            "$oid": "6409002faae838d7ff0db954"
+        },
+        "id": 113,
+        "name": {
+            "english": "Chansey",
+            "japanese": "\u30e9\u30c3\u30ad\u30fc",
+            "chinese": "\u5409\u5229\u86cb",
+            "french": "Leveinard"
+        },
+        "type": [
+            "Normal"
+        ],
+        "base": {
+            "HP": 250,
+            "Attack": 5,
+            "Defense": 5,
+            "Sp. Attack": 35,
+            "Sp. Defense": 105,
+            "Speed": 50
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6409002faae838d7ff0db964"
+        },
+        "id": 129,
+        "name": {
+            "english": "Magikarp",
+            "japanese": "\u30b3\u30a4\u30ad\u30f3\u30b0",
+            "chinese": "\u9ca4\u9c7c\u738b",
+            "french": "Magicarpe"
+        },
+        "type": [
+            "Water"
+        ],
+        "base": {
+            "HP": 20,
+            "Attack": 10,
+            "Defense": 55,
+            "Sp. Attack": 15,
+            "Sp. Defense": 20,
+            "Speed": 80
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6409002faae838d7ff0db9b8"
+        },
+        "id": 213,
+        "name": {
+            "english": "Shuckle",
+            "japanese": "\u30c4\u30dc\u30c4\u30dc",
+            "chinese": "\u58f6\u58f6",
+            "french": "Caratroc"
+        },
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "base": {
+            "HP": 20,
+            "Attack": 10,
+            "Defense": 230,
+            "Sp. Attack": 10,
+            "Sp. Defense": 230,
+            "Speed": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6409002faae838d7ff0db9d5"
+        },
+        "id": 242,
+        "name": {
+            "english": "Blissey",
+            "japanese": "\u30cf\u30d4\u30ca\u30b9",
+            "chinese": "\u5e78\u798f\u86cb",
+            "french": "Leuphorie"
+        },
+        "type": [
+            "Normal"
+        ],
+        "base": {
+            "HP": 255,
+            "Attack": 10,
+            "Defense": 10,
+            "Sp. Attack": 75,
+            "Sp. Defense": 135,
+            "Speed": 55
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6409002faae838d7ff0dba9b"
+        },
+        "id": 440,
+        "name": {
+            "english": "Happiny",
+            "japanese": "\u30d4\u30f3\u30d7\u30af",
+            "chinese": "\u5c0f\u798f\u86cb",
+            "french": "Ptiravi"
+        },
+        "type": [
+            "Normal"
+        ],
+        "base": {
+            "HP": 100,
+            "Attack": 5,
+            "Defense": 5,
+            "Sp. Attack": 15,
+            "Sp. Defense": 65,
+            "Speed": 30
+        }
+    }
+]
